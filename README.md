@@ -69,5 +69,6 @@ python main.py
 - Requires a local or network-accessible Ollama LLM.
 
 ## Output
-![All issues generated]('./img/all-issues-generated.png')
-![Single issue detail view]('./img/sample-issue-created.png')
+![All issues generated](img/all-issues-generated.png)
+
+![Single issue detail view](img/sample-issue-created.png)
