@@ -2,7 +2,7 @@
 
 This project is a Python-based tool that automatically scrapes App Store reviews for an app, analyzes the top recurring complaints using an LLM (via Ollama), and creates GitHub issues in a repository for those issues.
 
-It is designed as a demonstration of agentic AI: using AI to read, interpret, and take action based on human-written content.
+It is designed as a demonstration of simple agentic AI: using AI to read, interpret, and take action based on human-written content.
 
 ---
 
@@ -34,7 +34,7 @@ It is designed as a demonstration of agentic AI: using AI to read, interpret, an
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/app-review-agent.git
+git clone https://github.com/mccurrymitchell3/app-review-agent.git
 cd app-review-agent
 ```
 
